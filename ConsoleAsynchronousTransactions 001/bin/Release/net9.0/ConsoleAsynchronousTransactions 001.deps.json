@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleAsynchronousTransactions 001/1.0.0": {
+        "runtime": {
+          "ConsoleAsynchronousTransactions 001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAsynchronousTransactions 001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
