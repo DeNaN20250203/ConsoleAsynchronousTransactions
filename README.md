@@ -1,0 +1,2 @@
+# ConsoleAsynchronousTransactions
+Пример Консольной асинхронной операции
